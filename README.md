@@ -62,3 +62,14 @@ Este projeto é uma aplicação em **C++** desenvolvida para gerenciar a infraes
 4.  **Gerencie especialistas:** Cadastre médicos e liste-os por especialidade ou ordem alfabética.
 
 ---
+
+## 📂 Organização do Projeto
+
+- `src/main.cpp`  
+  Código principal do sistema, mantendo foco na funcionalidade e clareza.
+
+- `docs/main_comentado.cpp`  
+  Versão didática do código, com comentários detalhados explicando
+  estruturas de dados, algoritmos e fluxo do sistema.
+
+---
